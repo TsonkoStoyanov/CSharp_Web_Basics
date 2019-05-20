@@ -16,7 +16,7 @@ namespace SIS.Controllers
             string controllerName = this.GetType().Name.Replace("Controller", string.Empty);
             string viewName = view;
 
-            string viewContent = File.ReadAllText(controllerName + "/" + viewName + ".html");
+            string viewContent = File.ReadAllText("Views/" + controllerName + "/" + viewName + ".html");
 
             return new HtmlResult(viewContent, SIS.HTTP.Enums.HttpResponseStatusCode.Ok);
         }
