@@ -1,0 +1,12 @@
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csprojAssemblyReference.cache
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CoreCompileInputs.cache
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfoInputs.cache
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfo.cs
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.deps.json
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CopyComplete
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Programing\CSharp_Web_Basics\01_Exercise_Web_Server_HTTP_Protocоl\SIS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.pdb
